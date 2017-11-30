@@ -1,11 +1,15 @@
 @font-face {
     font-family: 'GTASA';
     src: url('font/GTASA.ttf');
+	font-weight: normal;
+	font-style: normal;
 }
 
 @font-face {
     font-family: 'HelveticaNeue';
     src: url('font/HelveticaNeue.ttf');
+	font-weight: normal;
+	font-style: normal;
 }
 
 body{
